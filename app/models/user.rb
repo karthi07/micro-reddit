@@ -5,4 +5,6 @@ class User < ApplicationRecord
                   { case_sensitive: false}, format:
                   { with: VALID_EMAIL_REGEX }
   has_many :posts
+  has_many :comments
+
 end
