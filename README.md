@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rammazzoti2000/micro_reddit">
+  <a href="https://github.com/karthi07/micro-reddit/issues">
     <img src="app/assets/images/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
