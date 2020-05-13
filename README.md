@@ -88,6 +88,12 @@ This project was built using these technologies.
 - Email: jaspreetsinghjassi01@gmail.com
 
 
+👤 **Karthick**
+
+- GitHub: [@karthick](https://github.com/karthi07)
+
+
+
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Microverse](https://www.microverse.org/)
